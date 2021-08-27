@@ -9,3 +9,6 @@ function antonsamir (){
 function antonsamirs (){
 	//samir
 }
+function antonlect1 (){
+	/ last update
+}
